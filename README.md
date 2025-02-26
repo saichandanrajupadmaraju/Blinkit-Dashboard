@@ -1,6 +1,6 @@
 # 🚀 Blinkit Dashboard - Power BI Project 📊  
 
-![Dashboard Preview](Images/blinkit_dashboard_overview.jpg)
+![Dashboard Preview](PDF%20Presentation/Images/blinkit_dashboard_overview.jpg)
 
 ## 📌 Overview  
 The **Blinkit Dashboard** is a **Power BI visualization project** that provides deep insights into **sales trends, customer behavior, inventory status, and marketing performance**. This dashboard is designed for businesses to **analyze key metrics and make data-driven decisions**.
@@ -18,7 +18,7 @@ The **Blinkit Dashboard** is a **Power BI visualization project** that provides 
 | Folder/File | Description |
 |------------|------------|
 | 📄 `Blinkit_Dashboard.pbix` | Power BI file containing the entire project. |
-| 📂 `Images/` | Screenshots of dashboard views. |
+| 📂 `PDF Presentation/Images/` | Screenshots of dashboard views. |
 | 📂 `MySQL Dataset/` | SQL scripts used for database extraction. |
 | 📂 `Excel Dataset/` | Excel files used for data transformation. |
 | 📂 `PDF Presentation/` | Documentation & project overview presentation. |
@@ -32,31 +32,31 @@ Here are the different sections of the **Blinkit Dashboard**:
 
 ### 🔹 **1. Main Dashboard Overview**  
 This section provides a **high-level view of sales, inventory, and customer insights**.  
-![Dashboard Overview](Images/blinkit_dashboard_overview.jpg)
+![Dashboard Overview](PDF%20Presentation/Images/blinkit_dashboard_overview.jpg)
 
 ### 🔹 **2. Sales Overview**  
 This report helps track **monthly revenue, product trends, and customer spending behavior**.  
-![Sales Overview](Images/sales_overview.jpg)
+![Sales Overview](PDF%20Presentation/Images/sales_overview.jpg)
 
 ### 🔹 **3. Alternative Sales Trends View**  
 Provides a **detailed breakdown of product sales and revenue contribution**.  
-![Sales Trends](Images/sales_overview_2.jpg)
+![Sales Trends](PDF%20Presentation/Images/sales_overview_2.jpg)
 
 ### 🔹 **4. Inventory Management**  
 Monitor **stock available, damaged stock percentages, and overall inventory health**.  
-![Inventory](Images/inventory_overview.jpg)
+![Inventory](PDF%20Presentation/Images/inventory_overview.jpg)
 
 ### 🔹 **5. Marketing Analytics**  
 Analyze **advertising performance with impressions, clicks, conversions, and revenue**.  
-![Marketing](Images/marketing_analytics.jpg)
+![Marketing](PDF%20Presentation/Images/marketing_analytics.jpg)
 
 ### 🔹 **6. Customer Feedback & Sentiment Analysis**  
 View **customer ratings, feedback categories, and satisfaction trends**.  
-![Customer Feedback](Images/customer_feedback.jpg)
+![Customer Feedback](PDF%20Presentation/Images/customer_feedback.jpg)
 
 ### 🔹 **7. Blinkit Dashboard First Page**  
 This is the **first landing page** of the dashboard.  
-![First Page](Images/blinkit_first_page.png)
+![First Page](PDF%20Presentation/Images/blinkit_first_page.png)
 
 ---
 
