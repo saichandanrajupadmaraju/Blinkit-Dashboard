@@ -60,12 +60,30 @@ This is the **first landing page** of the dashboard.
 
 ---
 
-## 🚀 **How to Use This Project**
-1️⃣ **Download the Power BI file**: [Blinkit_Dashboard.pbix](https://github.com/saichandanrajupadmaraju/Blinkit-Dashboard)  
-2️⃣ **Install Power BI Desktop** if you haven’t already.  
-3️⃣ **Open `Blinkit_Dashboard.pbix` in Power BI Desktop**.  
-4️⃣ **Ensure the dataset connections are set up properly**.  
-5️⃣ **Explore the dashboard and analyze insights!** 🎯  
+## 🚀 **View the Live Power BI Dashboard**
+You can **directly access the Blinkit Dashboard** using the link below:
+
+[🔗 Click here to view the dashboard on Power BI](https://app.powerbi.com/links/_3Xg5EB66e?ctid=5cdc5b43-d7be-4caa-8173-729e3b0a62d9&pbi_source=linkShare)
+
+---
+
+## 📌 **How to Use**
+1️⃣ **Click the link above** to open the Power BI dashboard.  
+2️⃣ **Sign in** if required (depending on access permissions).  
+3️⃣ **Explore** sales trends, customer insights, inventory data, and marketing analytics interactively.  
+4️⃣ **Use filters and slicers** to customize your view.  
+
+---
+
+## 📸 **Dashboard Screenshots**
+To get a quick preview, here are some **key sections** from the dashboard:
+
+### 🔹 **1. Main Dashboard Overview**  
+![Dashboard Overview](PDF%20Presentation/Images/blinkit_dashboard_overview.jpg)
+
+### 🔹 **2. Sales Overview**  
+![Sales Overview](PDF%20Presentation/Images/sales_overview.jpg)
+
 
 ---
 
