@@ -1,74 +1,91 @@
 # 🚀 Blinkit Dashboard - Power BI Project 📊  
 
-![Dashboard Preview](Screenshots/blinkit_dashboard_overview.jpg)
+![Dashboard Preview](Images/blinkit_dashboard_overview.jpg)
 
 ## 📌 Overview  
-The **Blinkit Dashboard** is a **Power BI visualization** that provides deep insights into **sales, customer behavior, inventory, and marketing performance**.  
+The **Blinkit Dashboard** is a **Power BI visualization project** that provides deep insights into **sales trends, customer behavior, inventory status, and marketing performance**. This dashboard is designed for businesses to **analyze key metrics and make data-driven decisions**.
 
 ### 🔥 **Key Insights from the Dashboard**
-- 📈 **Sales Analysis**: Growth trends of Blinkit's sales across multiple time frames.
-- 👥 **Customer Trends**: New vs. Lost customers and retention analysis.
-- 🏪 **Inventory Management**: Stock available, sold, and damaged goods.
-- 📊 **Marketing Analytics**: Impressions, Clicks, Conversions, and Revenue.
-- ⭐ **Customer Feedback**: Sentiment analysis and rating breakdown.
+- 📈 **Sales Trends**: Compare revenue growth over time and analyze key products.
+- 👥 **Customer Analytics**: Track **new vs. lost customers** and retention rates.
+- 🏪 **Inventory Management**: Monitor **stock levels, damage rates, and turnover rates**.
+- 📊 **Marketing Performance**: Visualize **impressions, clicks, conversions, and revenue from campaigns**.
+- ⭐ **Customer Feedback Sentiment**: Analyze customer ratings and improve service strategies.
 
 ---
 
 ## 📂 **Project Structure**
-📁 `Blinkit_Dashboard.pbix` - **Power BI File**  
-📁 `Screenshots/` - **Dashboard images & insights**  
-📁 `MySQL Dataset/` - **Database scripts for data extraction**  
-📁 `Excel Dataset/` - **Excel file data used in Power BI**  
-📁 `PDF Presentation/` - **Insights explanation**  
-📁 `Figma File/` - **UI/UX design references**
+| Folder/File | Description |
+|------------|------------|
+| 📄 `Blinkit_Dashboard.pbix` | Power BI file containing the entire project. |
+| 📂 `Images/` | Screenshots of dashboard views. |
+| 📂 `MySQL Dataset/` | SQL scripts used for database extraction. |
+| 📂 `Excel Dataset/` | Excel files used for data transformation. |
+| 📂 `PDF Presentation/` | Documentation & project overview presentation. |
+| 📄 `.gitignore` | Excludes unnecessary files from being tracked in Git. |
+| 📄 `License.txt` | Licensing information for the project. |
 
 ---
 
-## 📸 **Screenshots & Visualizations**
-Here are some of the key views from the dashboard:
+## 📸 **Dashboard Screenshots**
+Here are the different sections of the **Blinkit Dashboard**:
 
 ### 🔹 **1. Main Dashboard Overview**  
-![Dashboard Overview](Screenshots/blinkit_dashboard_overview.jpg)
+This section provides a **high-level view of sales, inventory, and customer insights**.  
+![Dashboard Overview](Images/blinkit_dashboard_overview.jpg)
 
 ### 🔹 **2. Sales Overview**  
-![Sales Overview](Screenshots/sales_overview.jpg)
+This report helps track **monthly revenue, product trends, and customer spending behavior**.  
+![Sales Overview](Images/sales_overview.jpg)
 
 ### 🔹 **3. Alternative Sales Trends View**  
-![Sales Trends](Screenshots/sales_overview_2.jpg)
+Provides a **detailed breakdown of product sales and revenue contribution**.  
+![Sales Trends](Images/sales_overview_2.jpg)
 
 ### 🔹 **4. Inventory Management**  
-![Inventory](Screenshots/inventory_overview.jpg)
+Monitor **stock available, damaged stock percentages, and overall inventory health**.  
+![Inventory](Images/inventory_overview.jpg)
 
 ### 🔹 **5. Marketing Analytics**  
-![Marketing](Screenshots/marketing_analytics.jpg)
+Analyze **advertising performance with impressions, clicks, conversions, and revenue**.  
+![Marketing](Images/marketing_analytics.jpg)
 
 ### 🔹 **6. Customer Feedback & Sentiment Analysis**  
-![Customer Feedback](Screenshots/customer_feedback.jpg)
+View **customer ratings, feedback categories, and satisfaction trends**.  
+![Customer Feedback](Images/customer_feedback.jpg)
 
 ### 🔹 **7. Blinkit Dashboard First Page**  
-![First Page](Screenshots/blinkit_first_page.png)
+This is the **first landing page** of the dashboard.  
+![First Page](Images/blinkit_first_page.png)
 
 ---
 
-## 🚀 **How to Use**
+## 🚀 **How to Use This Project**
 1️⃣ **Download the Power BI file**: [Blinkit_Dashboard.pbix](https://github.com/saichandanrajupadmaraju/Blinkit-Dashboard)  
-2️⃣ **Open in Power BI Desktop**  
-3️⃣ **Ensure the datasets are properly connected**  
-4️⃣ **Explore the insights & customize as needed!**  
+2️⃣ **Install Power BI Desktop** if you haven’t already.  
+3️⃣ **Open `Blinkit_Dashboard.pbix` in Power BI Desktop**.  
+4️⃣ **Ensure the dataset connections are set up properly**.  
+5️⃣ **Explore the dashboard and analyze insights!** 🎯  
 
 ---
 
 ## 🏗️ **Tech Stack Used**
-- **🔵 Power BI** - Data visualization & dashboarding
-- **📊 MySQL** - Data storage & retrieval
-- **📑 Excel** - Data preprocessing & structuring
-- **🎨 Figma** - UI/UX design
+| Technology | Purpose |
+|------------|---------|
+| **🔵 Power BI** | Data visualization and dashboard creation. |
+| **📊 MySQL** | Database storage and structured query retrieval. |
+| **📑 Excel** | Data transformation and organization. |
+| **🎨 Figma** | UI/UX design references for dashboard layout. |
 
 ---
 
 ## 🔧 **Installation**
-To run the project locally:  
-- **Step 1:** Install **Power BI Desktop** from [Microsoft Power BI](https://powerbi.microsoft.com/)  
-- **Step 2:** Clone this repository:  
-  ```sh
-  git clone https://github.com/saichandanrajupadmaraju/Blinkit-Dashboard.git
+To run the project locally, follow these steps:
+
+1. **Download and Install Power BI**:  
+   - Get Power BI from [Microsoft Power BI](https://powerbi.microsoft.com/).
+
+2. **Clone the Repository**:  
+   ```sh
+   git clone https://github.com/saichandanrajupadmaraju/Blinkit-Dashboard.git
+   cd Blinkit-Dashboard
